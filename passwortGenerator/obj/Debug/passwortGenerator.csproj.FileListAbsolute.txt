@@ -1,0 +1,8 @@
+C:\Users\49162\source\repos\passwortGenerator\passwortGenerator\bin\Debug\passwortGenerator.exe.config
+C:\Users\49162\source\repos\passwortGenerator\passwortGenerator\bin\Debug\passwortGenerator.exe
+C:\Users\49162\source\repos\passwortGenerator\passwortGenerator\bin\Debug\passwortGenerator.pdb
+C:\Users\49162\source\repos\passwortGenerator\passwortGenerator\obj\Debug\passwortGenerator.csproj.AssemblyReference.cache
+C:\Users\49162\source\repos\passwortGenerator\passwortGenerator\obj\Debug\passwortGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\49162\source\repos\passwortGenerator\passwortGenerator\obj\Debug\passwortGenerator.csproj.CoreCompileInputs.cache
+C:\Users\49162\source\repos\passwortGenerator\passwortGenerator\obj\Debug\passwortGenerator.exe
+C:\Users\49162\source\repos\passwortGenerator\passwortGenerator\obj\Debug\passwortGenerator.pdb
